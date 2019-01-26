@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodHealthApp", "GooHealthApp\GoodHealthApp.csproj", "{8D155AEF-7446-4B55-8C25-C249BDFFAF50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodHealth.Persistence", "GoodHealth.Persistence\GoodHealth.Persistence.csproj", "{7768163C-D4F6-4419-AB9E-505A54DF80FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodHealth.Model", "GoodHealth.Model\GoodHealth.Model.csproj", "{9ACE8459-C753-498F-A545-6A35D1AA36BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodHealth.Connection", "GoodHealth.Connection\GoodHealth.Connection.csproj", "{D75CD99F-4E39-48B0-A69F-8B1427F645E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodHealth.Application", "GoodHealth.Application\GoodHealth.Application.csproj", "{C304258D-A937-46DD-A7F8-BAD9966A80A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodHealth.Util", "GoodHealth.Util\GoodHealth.Util.csproj", "{80CD8020-EB61-4346-8BAF-BD82C79A602F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D155AEF-7446-4B55-8C25-C249BDFFAF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D155AEF-7446-4B55-8C25-C249BDFFAF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D155AEF-7446-4B55-8C25-C249BDFFAF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D155AEF-7446-4B55-8C25-C249BDFFAF50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7768163C-D4F6-4419-AB9E-505A54DF80FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7768163C-D4F6-4419-AB9E-505A54DF80FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7768163C-D4F6-4419-AB9E-505A54DF80FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7768163C-D4F6-4419-AB9E-505A54DF80FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACE8459-C753-498F-A545-6A35D1AA36BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACE8459-C753-498F-A545-6A35D1AA36BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACE8459-C753-498F-A545-6A35D1AA36BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACE8459-C753-498F-A545-6A35D1AA36BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75CD99F-4E39-48B0-A69F-8B1427F645E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75CD99F-4E39-48B0-A69F-8B1427F645E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75CD99F-4E39-48B0-A69F-8B1427F645E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75CD99F-4E39-48B0-A69F-8B1427F645E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C304258D-A937-46DD-A7F8-BAD9966A80A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C304258D-A937-46DD-A7F8-BAD9966A80A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C304258D-A937-46DD-A7F8-BAD9966A80A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C304258D-A937-46DD-A7F8-BAD9966A80A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CD8020-EB61-4346-8BAF-BD82C79A602F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CD8020-EB61-4346-8BAF-BD82C79A602F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CD8020-EB61-4346-8BAF-BD82C79A602F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CD8020-EB61-4346-8BAF-BD82C79A602F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF8AB688-6EF7-454C-9423-B2E87CA399CB}
+	EndGlobalSection
+EndGlobal

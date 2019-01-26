@@ -1,0 +1,98 @@
+<style>
+	body {
+		padding: $base-spacing-unit;
+		font-family: 'Source Sans Pro', sans-serif;
+		margin: 0;
+	}
+
+	h1, h2, h3, h4, h5, h6, label {
+		margin: 0;
+		font-family: 'Times New Roman', Times, serif;
+		font-size: 12px;
+	}
+
+	.container {
+		max-width: 1000px;
+		margin-right: auto;
+		margin-left: auto;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		min-height: 100vh;
+	}
+	.table2 {
+		width: 60%;
+		border: 1px solid $color-form-highlight;
+	}
+
+	.table {
+		width: 50%;
+		border: 1px solid $color-form-highlight;
+	}
+
+	.table-header {
+		display: flex;
+		width: 100%;
+		background: #000;
+		padding: ($half-spacing-unit * 1.5) 0;
+	}
+
+	.table-row {
+		display: flex;
+		width: 100%;
+		padding: ($half-spacing-unit * 1.5) 0;
+		&:nth-of-type(odd)
+
+	{
+		background: $color-form-highlight;
+	}
+
+	}
+
+	.table-data, .header__item {
+		flex: 2 2 50%;
+		text-align: center;
+		font-size: 12px;
+	}
+
+	.header__item {
+		text-transform: uppercase;
+	}
+
+	.filter__link {
+		color: white;
+		text-decoration: none;
+		position: relative;
+		display: inline-block;
+		padding-left: $base-spacing-unit;
+		padding-right: $base-spacing-unit;
+		&::after
+
+		{
+			content: '';
+			position: absolute;
+			right: -($half-spacing-unit * 1.5);
+			color: white;
+			font-size: $half-spacing-unit;
+			top: 50%;
+			transform: translateY(-50%);
+		}
+
+		&.desc::after {
+			content: '(desc)';
+		}
+
+		&.asc::after {
+			content: '(asc)';
+		}
+	}
+</style>
+
+
+<h1>Boa noite, Cliente Good Health!</h1><br />
+<label>Devido a greve dos caminhoneiros, não conseguimos abastecer nosso estoque. Com isso, infelizmente não iremos realizar a entrega dos kits na terça-feira 29/05/2018.</label><br /><br />
+<label>Pedimos desculpas e informamos que esse dia será devidamente descontado no fechamento do período.</label> <br />
+<label>Agradecemos sua compreensão.</label> <br />
+<br />
+<h4>Atenciosamente,</h4>
+<h4>Equipe Good Health</h4>

@@ -1,0 +1,39 @@
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Persistence.dll
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Persistence.pdb
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\Dapper.dll
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Connection.dll
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Model.dll
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Connection.pdb
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Model.pdb
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\Dapper.xml
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.csprojResolveAssemblyReference.cache
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.csproj.CoreCompileInputs.cache
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.dll
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.pdb
+E:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.csproj.CopyComplete
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Persistence.dll
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Persistence.pdb
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\Dapper.dll
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Connection.dll
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Model.dll
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Connection.pdb
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Model.pdb
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\bin\Debug\Dapper.xml
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.csprojResolveAssemblyReference.cache
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.csproj.CoreCompileInputs.cache
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.csproj.CopyComplete
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.dll
+C:\GoodHealthAPP\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.pdb
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Persistence.dll
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Persistence.pdb
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\bin\Debug\Dapper.dll
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Connection.dll
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Model.dll
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Connection.pdb
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\bin\Debug\GoodHealth.Model.pdb
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\bin\Debug\Dapper.xml
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.csprojAssemblyReference.cache
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.csproj.CoreCompileInputs.cache
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.csproj.CopyComplete
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.dll
+D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Persistence\obj\Debug\GoodHealth.Persistence.pdb
