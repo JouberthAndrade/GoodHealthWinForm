@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static GoodHealth.Model.Enum.Enums;
 
 namespace GoodHealth.Model.Dto
 {
@@ -34,8 +35,11 @@ namespace GoodHealth.Model.Dto
 
     public class ProdutoFechamentoDetalhadoDTO
     {
+        public int ID_PRODUTO { get; set; }
         public decimal VALOR_PRODUTO { get; set; }
         public string DESCRICAO_PRODUTO { get; set; }
-        
+
+        public eProdutos TIPO { get { return (eProdutos)ID_PRODUTO; } }
+
     }
 }

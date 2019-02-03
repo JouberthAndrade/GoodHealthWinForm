@@ -16,12 +16,3 @@ C:\GoodHealthAPP\GooHealthApp\GoodHealth.Util\obj\Debug\GoodHealth.Util.csproj.C
 C:\GoodHealthAPP\GooHealthApp\GoodHealth.Util\obj\Debug\GoodHealth.Util.csproj.CopyComplete
 C:\GoodHealthAPP\GooHealthApp\GoodHealth.Util\obj\Debug\GoodHealth.Util.dll
 C:\GoodHealthAPP\GooHealthApp\GoodHealth.Util\obj\Debug\GoodHealth.Util.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Util\bin\Debug\GoodHealth.Util.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Util\bin\Debug\GoodHealth.Util.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Util\bin\Debug\GoodHealth.Model.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Util\bin\Debug\GoodHealth.Model.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Util\obj\Debug\GoodHealth.Util.csprojAssemblyReference.cache
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Util\obj\Debug\GoodHealth.Util.csproj.CoreCompileInputs.cache
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Util\obj\Debug\GoodHealth.Util.csproj.CopyComplete
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Util\obj\Debug\GoodHealth.Util.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Util\obj\Debug\GoodHealth.Util.pdb

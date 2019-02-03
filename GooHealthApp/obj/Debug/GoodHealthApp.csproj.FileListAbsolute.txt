@@ -46,30 +46,3 @@ C:\GoodHealthAPP\GooHealthApp\GooHealthApp\obj\Debug\GooHealthApp.exe
 C:\GoodHealthAPP\GooHealthApp\GooHealthApp\obj\Debug\GooHealthApp.pdb
 C:\GoodHealthAPP\GooHealthApp\GooHealthApp\obj\Debug\GooHealthApp.FrmCadastroUsuario.resources
 C:\GoodHealthAPP\GooHealthApp\GooHealthApp\obj\Debug\GooHealthApp.FrmPrincipal.resources
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GooHealthApp.exe.config
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GooHealthApp.exe
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GooHealthApp.pdb
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GoodHealth.Application.dll
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GoodHealth.Model.dll
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GoodHealth.Util.dll
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GoodHealth.Persistence.dll
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\Dapper.dll
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GoodHealth.Connection.dll
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GoodHealth.Application.pdb
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GoodHealth.Model.pdb
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GoodHealth.Util.pdb
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GoodHealth.Persistence.pdb
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\Dapper.xml
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\bin\Debug\GoodHealth.Connection.pdb
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\obj\Debug\GoodHealthApp.csprojAssemblyReference.cache
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\obj\Debug\GooHealthApp.Form1.resources
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\obj\Debug\GooHealthApp.FrmCadastroUsuario.resources
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\obj\Debug\GooHealthApp.FrmInserirAusencia.resources
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\obj\Debug\GooHealthApp.FrmPrincipal.resources
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\obj\Debug\GooHealthApp.FrmUsuarioProdutos.resources
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\obj\Debug\GooHealthApp.Properties.Resources.resources
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\obj\Debug\GoodHealthApp.csproj.GenerateResource.cache
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\obj\Debug\GoodHealthApp.csproj.CoreCompileInputs.cache
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\obj\Debug\GoodHealthApp.csproj.CopyComplete
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\obj\Debug\GooHealthApp.exe
-D:\Good Health\Windows Form\GooHealthApp\GooHealthApp\obj\Debug\GooHealthApp.pdb

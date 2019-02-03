@@ -32,20 +32,3 @@ C:\GoodHealthAPP\GooHealthApp\GoodHealth.Application\obj\Debug\GoodHealth.Applic
 C:\GoodHealthAPP\GooHealthApp\GoodHealth.Application\obj\Debug\GoodHealth.Application.csproj.CopyComplete
 C:\GoodHealthAPP\GooHealthApp\GoodHealth.Application\obj\Debug\GoodHealth.Application.dll
 C:\GoodHealthAPP\GooHealthApp\GoodHealth.Application\obj\Debug\GoodHealth.Application.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\bin\Debug\GoodHealth.Application.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\bin\Debug\GoodHealth.Application.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\bin\Debug\GoodHealth.Connection.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\bin\Debug\GoodHealth.Model.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\bin\Debug\GoodHealth.Persistence.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\bin\Debug\GoodHealth.Util.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\bin\Debug\Dapper.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\bin\Debug\GoodHealth.Connection.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\bin\Debug\GoodHealth.Model.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\bin\Debug\GoodHealth.Persistence.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\bin\Debug\GoodHealth.Util.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\bin\Debug\Dapper.xml
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\obj\Debug\GoodHealth.Application.csprojAssemblyReference.cache
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\obj\Debug\GoodHealth.Application.csproj.CoreCompileInputs.cache
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\obj\Debug\GoodHealth.Application.csproj.CopyComplete
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\obj\Debug\GoodHealth.Application.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Application\obj\Debug\GoodHealth.Application.pdb

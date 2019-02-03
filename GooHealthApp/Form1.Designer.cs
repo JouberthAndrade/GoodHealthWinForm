@@ -36,6 +36,7 @@
             this.treeView1 = new System.Windows.Forms.TreeView();
             this.dgDetalhado = new System.Windows.Forms.DataGridView();
             this.btnEmailIndividual = new System.Windows.Forms.Button();
+            this.btnEnviaEmailAdm = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgDetalhado)).BeginInit();
             this.SuspendLayout();
             // 
@@ -73,7 +74,7 @@
             // 
             this.lblValorTotal.AutoSize = true;
             this.lblValorTotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblValorTotal.Location = new System.Drawing.Point(1404, 675);
+            this.lblValorTotal.Location = new System.Drawing.Point(1022, 672);
             this.lblValorTotal.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblValorTotal.Name = "lblValorTotal";
             this.lblValorTotal.Size = new System.Drawing.Size(35, 17);
@@ -115,7 +116,7 @@
             this.dgDetalhado.Location = new System.Drawing.Point(435, 69);
             this.dgDetalhado.Name = "dgDetalhado";
             this.dgDetalhado.RowTemplate.Height = 24;
-            this.dgDetalhado.Size = new System.Drawing.Size(971, 620);
+            this.dgDetalhado.Size = new System.Drawing.Size(622, 620);
             this.dgDetalhado.TabIndex = 7;
             // 
             // btnEmailIndividual
@@ -136,11 +137,29 @@
             this.btnEmailIndividual.UseVisualStyleBackColor = false;
             this.btnEmailIndividual.Click += new System.EventHandler(this.btnEmailIndividual_Click);
             // 
+            // btnEnviaEmailAdm
+            // 
+            this.btnEnviaEmailAdm.BackColor = System.Drawing.Color.ForestGreen;
+            this.btnEnviaEmailAdm.FlatAppearance.BorderColor = System.Drawing.Color.LimeGreen;
+            this.btnEnviaEmailAdm.FlatAppearance.BorderSize = 2;
+            this.btnEnviaEmailAdm.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEnviaEmailAdm.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEnviaEmailAdm.ForeColor = System.Drawing.Color.White;
+            this.btnEnviaEmailAdm.Location = new System.Drawing.Point(854, 33);
+            this.btnEnviaEmailAdm.Margin = new System.Windows.Forms.Padding(4);
+            this.btnEnviaEmailAdm.Name = "btnEnviaEmailAdm";
+            this.btnEnviaEmailAdm.Size = new System.Drawing.Size(203, 31);
+            this.btnEnviaEmailAdm.TabIndex = 9;
+            this.btnEnviaEmailAdm.Text = "Teste email ADMS";
+            this.btnEnviaEmailAdm.UseVisualStyleBackColor = false;
+            this.btnEnviaEmailAdm.Click += new System.EventHandler(this.btnEnviaEmailAdm_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1440, 757);
+            this.ClientSize = new System.Drawing.Size(1065, 757);
+            this.Controls.Add(this.btnEnviaEmailAdm);
             this.Controls.Add(this.btnEmailIndividual);
             this.Controls.Add(this.dgDetalhado);
             this.Controls.Add(this.treeView1);
@@ -170,6 +189,7 @@
         private System.Windows.Forms.TreeView treeView1;
         private System.Windows.Forms.DataGridView dgDetalhado;
         private System.Windows.Forms.Button btnEmailIndividual;
+        private System.Windows.Forms.Button btnEnviaEmailAdm;
     }
 }
 

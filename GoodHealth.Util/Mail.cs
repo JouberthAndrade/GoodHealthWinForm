@@ -196,6 +196,18 @@ namespace GoodHealth.Util
             return anexo;
         }
 
+        public void SendMailAdms(List<PagamentoDetalhadoDTO> listaDetalhado)
+        {
+            if (listaDetalhado.Any())
+            {
+                DateTime dataInicio = listaDetalhado.Min(x => x.Datas.Min(d => d.DATA_FECHAMENTO));
+                DateTime dataFim = listaDetalhado.Max(x => x.Datas.Max(d => d.DATA_FECHAMENTO));
+                var nomearquivo = string.Format("Fechamento_{0}__{1}.xlsx", dataInicio.ToShortDateString().Replace("/", "_"), dataFim.ToShortDateString().Replace("/", "_"));
+                ExcelReport excel = new ExcelReport(nomearquivo, listaDetalhado);
+                excel.Create();
+            }
+        }
+        
         public string RetornarHtlmEmail(PagamentoDetalhadoDTO item, PeriodoDTO perido, int qtdAusencias)
         {
             string head = string.Format(@"<label>Olá {0}, boa noite!</label><br />

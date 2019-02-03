@@ -139,11 +139,11 @@ namespace GooHealthApp
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private async void button2_Click(object sender, EventArgs e)
         {
-            EnviarEmail();
+          await EnviarEmailAsync();
         }
-        private void EnviarEmail()
+        private async Task EnviarEmailAsync()
         {
             var qtd = 0;
             var qtdnao = 0;
@@ -153,8 +153,7 @@ namespace GooHealthApp
             if (confirmResult == DialogResult.Yes)
             {
                 var periodo = _periodoPagamentoApplication.GetPeriodo(Convert.ToInt32(cbPeriodos.SelectedValue));
-
-
+                
                 var assunto = string.Format("Pagamento {0}/2019", cbPeriodos.Text);
 
                 if (listaDetalhado.Any())
@@ -176,6 +175,7 @@ namespace GooHealthApp
                     }
                     if (qtd > 0 || qtdnao > 0)
                     {
+                        await EnviarEmailAdministradores();
                         MessageBox.Show(string.Format("Emails enviados: {0} | Não enviados: {1}", qtd, qtdnao));
                     }
                 }
@@ -185,6 +185,11 @@ namespace GooHealthApp
             {
                 // If 'No', do something here.
             }
+        }
+
+        private async Task EnviarEmailAdministradores()
+        {
+            _mail.SendMailAdms(listaDetalhado);
         }
 
         private void cbPeriodos_SelectedIndexChanged(object sender, EventArgs e)
@@ -262,6 +267,9 @@ namespace GooHealthApp
 
         }
 
-
+        private void btnEnviaEmailAdm_Click(object sender, EventArgs e)
+        {
+            _mail.SendMailAdms(listaDetalhado);
+        }
     }
 }

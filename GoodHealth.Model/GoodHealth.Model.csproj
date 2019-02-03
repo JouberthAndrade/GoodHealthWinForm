@@ -44,6 +44,7 @@
     <Compile Include="Dto\DiaFechamentoDTO.cs" />
     <Compile Include="Dto\PagamentoDetalhadoDTO.cs" />
     <Compile Include="Dto\PagamentosDTO.cs" />
+    <Compile Include="Dto\ParentReferenceDTO.cs" />
     <Compile Include="Dto\PeriodoDTO.cs" />
     <Compile Include="Dto\ProdutosDTO.cs" />
     <Compile Include="Dto\ProdutoTelaDTO.cs" />
@@ -57,6 +58,7 @@
     <Compile Include="Entidades\UsuarioDiaProduto.cs" />
     <Compile Include="Entidades\Usuarios.cs" />
     <Compile Include="Entidades\UsuarioEmpresa.cs" />
+    <Compile Include="Enum\Enums.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

@@ -41,7 +41,7 @@ namespace GoodHealth.Persistence.Consultas
                                                         LEFT JOIN USUARIO_PRODUTO_DESCONTO UPD ON UPD.ID_USUARIO = U.ID AND UPD.ID_PRODUTO = P.ID
                                                         WHERE L.ID_PERIODO = @ID_PERIODO
                                                         AND L.ATIVO = 1
-                                                        --AND L.ID_USUARIO = 82
+                                                        --AND L.ID_USUARIO in(71, 107)
                                                         AND NOT EXISTS (
 	                                                        SELECT *
 	                                                        FROM USUARIO_AUSENCIA UA

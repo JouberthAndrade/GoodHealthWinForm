@@ -9,9 +9,3 @@ C:\GoodHealthAPP\GooHealthApp\GoodHealth.Model\obj\Debug\GoodHealth.Model.csproj
 C:\GoodHealthAPP\GooHealthApp\GoodHealth.Model\obj\Debug\GoodHealth.Model.csproj.CoreCompileInputs.cache
 C:\GoodHealthAPP\GooHealthApp\GoodHealth.Model\obj\Debug\GoodHealth.Model.dll
 C:\GoodHealthAPP\GooHealthApp\GoodHealth.Model\obj\Debug\GoodHealth.Model.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Model\bin\Debug\GoodHealth.Model.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Model\bin\Debug\GoodHealth.Model.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Model\obj\Debug\GoodHealth.Model.csproj.CoreCompileInputs.cache
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Model\obj\Debug\GoodHealth.Model.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Model\obj\Debug\GoodHealth.Model.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Model\obj\Debug\GoodHealth.Model.csprojAssemblyReference.cache

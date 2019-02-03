@@ -10,9 +10,3 @@ C:\GoodHealthAPP\GooHealthApp\GoodHealth.Connection\obj\Debug\GoodHealth.Connect
 C:\GoodHealthAPP\GooHealthApp\GoodHealth.Connection\obj\Debug\GoodHealth.Connection.csproj.CoreCompileInputs.cache
 C:\GoodHealthAPP\GooHealthApp\GoodHealth.Connection\obj\Debug\GoodHealth.Connection.dll
 C:\GoodHealthAPP\GooHealthApp\GoodHealth.Connection\obj\Debug\GoodHealth.Connection.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Connection\bin\Debug\GoodHealth.Connection.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Connection\bin\Debug\GoodHealth.Connection.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Connection\obj\Debug\GoodHealth.Connection.csproj.CoreCompileInputs.cache
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Connection\obj\Debug\GoodHealth.Connection.dll
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Connection\obj\Debug\GoodHealth.Connection.pdb
-D:\Good Health\Windows Form\GooHealthApp\GoodHealth.Connection\obj\Debug\GoodHealth.Connection.csprojAssemblyReference.cache

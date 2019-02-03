@@ -32,6 +32,7 @@ namespace GoodHealth.Application
                       Datas = group.GroupBy(grp => new { grp.ID_USUARIO, grp.DATA_FECHAMENTO }).Select(grpDatas => new DataFechamentoDetalhadoDTO {
                           DATA_FECHAMENTO = grpDatas.Key.DATA_FECHAMENTO,
                           Produtos = grpDatas.Select(p => new ProdutoFechamentoDetalhadoDTO {
+                              ID_PRODUTO = p.ID_PRODUTO,
                               DESCRICAO_PRODUTO = p.DESCRICAO_PRODUTO,
                               VALOR_PRODUTO = p.VALOR_PRODUTO
                           }).ToList()
